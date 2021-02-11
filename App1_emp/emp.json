@@ -1,0 +1,24 @@
+[
+    {
+      "Emp_name": "captain",
+      "Emp_ID": 1,
+      "Emp_detail": "detailss",
+      "P_ID": 1
+    },{
+      "Emp_name": "Black Panther",
+      "Emp_ID": 2,
+      "Emp_detail": "detail1",
+      "P_ID": 2
+    },{
+      "Emp_name": "emp 3",
+      "Emp_ID": 3,
+      "Emp_detail": "detail2",
+      "P_ID": 3
+    },{
+      "Emp_name": "Iron man",
+      "Emp_ID": 4,
+      "Emp_detail": "detail3",
+      "P_ID": 1
+    }
+
+  ]
